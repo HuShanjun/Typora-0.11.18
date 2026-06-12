@@ -17,3 +17,6 @@ As there has been a stable cracking solution for the latest versions, it is no l
 7. 选中你的当前用户（或 Users/ Administrators），下方权限框中勾选「拒绝(Deny) → 完全控制」和「拒绝 → 读取」（至少勾"完全控制"的拒绝）。
 
 点击确定，重启电脑或重启 Typora 即可。
+
+国区官方网站
+https://theme.typoraio.cn/
